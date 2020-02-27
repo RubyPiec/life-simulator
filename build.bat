@@ -1,0 +1,1 @@
+g++ tbhidklmao.cpp -o tbhidklmao

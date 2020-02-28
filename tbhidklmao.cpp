@@ -11,6 +11,6 @@ int main(){
 		age++;
 		std::cout << "you are " << age << " years old" << "\n";
 	}
-	std::cout << "\n" << "you are dead, congratulations";
+	std::cout << "\n" << "you are dead, congratulations, you died at " << deathAge << " years old";
 	return 0;
 }
